@@ -1,7 +1,7 @@
 Intonation Prediction
 
 In this project I have built a model that predicts the intonation of a short audio segment.
-The audio can be downloaded from "https://collect.qmul.ac.uk/down?t=6H8231DQL1NGDI9A/613DLM2R3OFV5EEH9INK2OG"
+The audio dataset was prepared by the batch of MSc Big Data Science at QMUL.
 
 The trainingMLEND.csv consits of 20k rows and 4 columns. Each row corresponds to one of the items in our dataset, and each item is described by four attributes.
 1) File ID (audio file)
